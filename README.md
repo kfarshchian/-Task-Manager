@@ -6,7 +6,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  I made this application to save notes to a server. 
+  This application uses Express to save notes into the server database. It also uses UUID to add a key to the notes and allows the notes to be deleted from the database when the delete button sends the UUID id back to the database with the delete request. 
 
   ## Table of Contents
   - [License](#License)
@@ -24,7 +24,8 @@
   ## Usage
   ![alttext](./assets/images/site1.png)
   ![alttext](./assets/images/site2.png)
-  save notes.
+  
+  A simple application you can use to save notes and have access them anywhere at any time. 
   
   ## Credits
   na
